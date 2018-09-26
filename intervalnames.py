@@ -1,0 +1,21 @@
+interval_list = [
+    ("unison"),
+    ("minor 2nd", "flat 2", "half step"),
+    ("major 2nd", "sus 2", "whole step"),
+    ("minor 3rd", "flat 3"),
+    ("major 3rd"),
+    ("perfect 4th", "sus 4"),
+    ("diminished 5th", "sharp 4", "tritone"),
+    ("perfect 5th"),
+    ("minor 6th", "augmented 5th"),
+    ("major 6th", "diminished 7th"),
+    ("minor 7th", "flat 7", "dominant 7", "half diminished 7th"),
+    ("major 7th", "leading tone")
+    ("octave"),
+    ("minor 9th", "flat 9"),
+    ("major 9th"),
+    ("minor 10th", "sharp 9"),
+    ("major 10th"),
+    ("perfect 11th"),
+    ("augmented 11th","sharp 11"),
+]
